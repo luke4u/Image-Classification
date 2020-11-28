@@ -12,3 +12,6 @@ Please refer to Kaggle for data source: https://www.kaggle.com/zalando-research/
 3rd one is to build a LE-Net model to predict traffic sign images (43 classes). The model is implemented as referred in original publication with model evaluation and model prediction.
 
 4th one is to fine-tune ResNet and InceptionV3 models for covid and Pneumonia detections (4 classes in total). The model is created based on transfer learning with the last 10 layer trainable. Grid search is used to optimized the training parameters, including dropout rate, batch size, epoch. Dataset for training is too large to share, but happy to share on demand.
+
+******Production and deployment level codes are to be opened soon. Stay tuned. 💕💕******
+
