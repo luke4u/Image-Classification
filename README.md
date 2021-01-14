@@ -1,7 +1,7 @@
-# CNN-Image-Classification
-This is to create a repos for CNN image classifications. It covers 3 use cases. 
+## CNN-Image-Classification
+This is to create a repos for CNN image classifications model feasbility investigation.
 
-One is to build a CNN model to predict cat or dog and data augmentation is used to improved the model. 
+1st is to build a CNN model to predict cat or dog and data augmentation is used to improved the model. 
 Due to size limit, unable to upload train and test files
 Please refer to Kaggle for data source: https://www.kaggle.com/c/dogs-vs-cats
 
