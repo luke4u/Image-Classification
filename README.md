@@ -13,5 +13,5 @@ Please refer to Kaggle for data source: https://www.kaggle.com/zalando-research/
 
 4th one is to fine-tune ResNet and InceptionV3 models for covid and Pneumonia detections (4 classes in total). The model is created based on transfer learning with the last 10 layer trainable. Grid search is used to optimized the training parameters, including dropout rate, batch size, epoch. Dataset for training is too large to share, but happy to share on demand.
 
-******Production and deployment level codes are to be opened soon. Stay tuned. 💕💕******
+******Production and deployment level codes are to be opened soon. Stay tuned.******
 
